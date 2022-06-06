@@ -54,15 +54,7 @@ _ANCHORGENERATORSTRIDE = _descriptor.Descriptor(
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR),
     _descriptor.FieldDescriptor(
-      name='rotations', full_name='second.protos.Aport get_paddings_indicator, register_vfe
-from second.pytorch.models.middle import register_middle
-from torchplus.nn import Empty
-from torchplus.tools import change_default_args
-import numpy as np 
-
-class PFNLayer(nn.Module):
-    def __init__(self,
-                 in_channels,nchorGeneratorStride.rotations', index=3,
+      name='rotations', full_name='second.protos.AnchorGeneratorStride.rotations', index=3,
       number=4, type=2, cpp_type=6, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
